@@ -34,9 +34,9 @@
 }
  .tl-timeline h1, .tl-timeline h2, .tl-timeline h3, .tl-timeline h4, .tl-timeline h5, .tl-timeline h6 {
      font-family: 'Abril Fatface', cursive;
-     text-transform: unicase;
+     text-transform: inherit;
      font-weight: 700;
-     font-size: 100px;
+     font-size: 48px;
      line-height: 46px;
 }
  .tl-timeline h2.tl-headline-title {
