@@ -114,22 +114,7 @@
      font-size: 46px;
      line-height: 46px;
 }
-/*unvisited link */
-a:link {
-  color: red;
-}
-
-/* visited link */
-a:visited {
-  color: green;
-}
-
-/* mouse over link */
-a:hover {
-  color: hotpink;
-}
-
-/* selected link */
-a:active {
-  color: blue;
+.tl-timeline a {
+    text-decoration: none;
+    color: hotpink;
 }
