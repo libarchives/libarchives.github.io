@@ -133,3 +133,7 @@
 .tl-timegroup {   
     background-color: #EF7C00;
 }
+.tl-slide.tl-full-color-background a {
+    color: #003D7C;
+    text-shadow: 0px 0px 0px #000;
+}
