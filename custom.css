@@ -127,8 +127,9 @@
 }
 .tl-timegroup .tl-timegroup-message {
     color: #e0e0e0;
+    text-shadow: #fff 0px 0px 0px;
     margin-left: 80px;
 }
-.tl-timegroup.tl-timegroup-alternate {
+.tl-timegroup {   
     background-color: #003D7C;
 }
