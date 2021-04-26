@@ -114,14 +114,6 @@
      font-size: 46px;
      line-height: 46px;
 }
-.tl-timeline a {
-    text-decoration: none;
-    color: hotpink;
-}
-.tl-slide.tl-full-image-background a, .tl-slide.tl-full-color-background a, .tl-slide.tl-full-image-background .vcard a, .tl-slide.tl-full-color-background .vcard a {
-    text-shadow: 1px 1px 1px #000;
-    color: red;
-}
 .tl-timegroup.tl-timegroup-alternate {
     background-color: #EF7C00;
 }
@@ -135,5 +127,5 @@
 }
 .tl-slide.tl-full-color-background a {
     color: #EF7C00;
-     /* text-shadow: 0px 0px 0px #000;
+    text-shadow: 0px 0px 0px #000;
 }
