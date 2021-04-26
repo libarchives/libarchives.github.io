@@ -122,3 +122,13 @@
     text-shadow: 1px 1px 1px #000;
     color: red;
 }
+.tl-timegroup.tl-timegroup-alternate {
+    background-color: #EF7C00;
+}
+.tl-timegroup .tl-timegroup-message {
+    color: #e0e0e0;
+    margin-left: 80px;
+}
+.tl-timegroup.tl-timegroup-alternate {
+    background-color: #003D7C;
+}
