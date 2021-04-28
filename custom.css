@@ -129,10 +129,10 @@
     color: #EF7C00;
     text-shadow: 0px 0px 0px #000;
 }
-.tl-slide.tl-full-color-background h2, .tl-full-color-background .tl-text, .tl-full-color-background .tl-text .tl-headline-date, .tl-full-color-background .tl-text h3.tl-headline-date {
+.tl-slide.tl-full-color-background h2, .tl-full-color-background .tl-text, .tl-full-color-background .tl-text .tl-headline-date, .tl-full-color-background .tl-text h3.tl-headline-date, .tl-full-color-background .tl-text p {
     color: #000 !important;
     text-shadow: 0px 0px 0px #000;
 }
-.tl-slide.tl-full-color-background h3 {
+.tl-slide.tl-full-color-background h3, .tl-slide.tl-full-color-background p, .tl-full-color-background .tl-text, .tl-slide.tl-full-color-background, .tl-full-color-background .tl-text p {
     text-shadow: 0px 0px 0px #000 !important;
 }
