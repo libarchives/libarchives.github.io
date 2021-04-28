@@ -133,3 +133,6 @@
     color: #000 !important;
     text-shadow: 0px 0px 0px #000;
 }
+.tl-slide.tl-full-color-background h3 {
+    text-shadow: 0px 0px 0px #000;
+}
