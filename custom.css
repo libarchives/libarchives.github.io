@@ -133,6 +133,6 @@
     color: #000 !important;
     text-shadow: 0px 0px 0px #000;
 }
-.tl-slide.tl-full-color-background h3, .tl-slide.tl-full-color-background p, .tl-full-color-background .tl-text, .tl-slide.tl-full-color-background{
+.tl-slide.tl-full-color-background h3, .tl-slide.tl-full-color-background p, .tl-full-color-background .tl-text, .tl-slide.tl-full-color-background, .tl-slide.tl-full-color-background .tl-caption{
     text-shadow: 0px 0px 0px #000 !important;
 }
